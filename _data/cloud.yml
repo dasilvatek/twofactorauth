@@ -103,6 +103,7 @@ websites:
       sms: Yes
       phone: Yes
       software: Yes
+      hardware: Yes
       otp: Yes
       doc: https://cloud.ibm.com/docs/iam?topic=iam-types
 
